@@ -1,0 +1,112 @@
+{
+  "posts": [
+    {
+      "firstName": "Ulaş Can",
+      "lastName": "Bozkurt",
+      "email": "ulas@gmail.com",
+      "mobile": "2",
+      "address": "İzmir",
+      "id": 2
+    },
+    {
+      "firstName": "Goksel",
+      "lastName": "Bilecen",
+      "email": "goksel@gmail.com",
+      "mobile": "1",
+      "address": "İzmir",
+      "id": 3
+    },
+    {
+      "firstName": "Mahir",
+      "lastName": "Özdemir",
+      "email": "mahir@gmail.com",
+      "mobile": "1",
+      "address": "Ankara",
+      "id": 6
+    },
+    {
+      "firstName": null,
+      "lastName": null,
+      "email": null,
+      "mobile": null,
+      "address": null,
+      "id": 7
+    },
+    {
+      "firstName": null,
+      "lastName": null,
+      "email": null,
+      "mobile": null,
+      "address": null,
+      "id": 8
+    },
+    {
+      "firstName": null,
+      "lastName": null,
+      "email": null,
+      "mobile": null,
+      "address": null,
+      "id": 9
+    },
+    {
+      "firstName": null,
+      "lastName": null,
+      "email": null,
+      "mobile": null,
+      "address": null,
+      "id": 10
+    },
+    {
+      "firstName": null,
+      "lastName": null,
+      "email": null,
+      "mobile": null,
+      "address": null,
+      "id": 11
+    },
+    {
+      "firstName": null,
+      "lastName": null,
+      "email": null,
+      "mobile": null,
+      "address": null,
+      "id": 12
+    },
+    {
+      "firstName": null,
+      "lastName": null,
+      "email": null,
+      "mobile": null,
+      "address": null,
+      "id": 13
+    },
+    {
+      "firstName": null,
+      "lastName": null,
+      "email": null,
+      "mobile": null,
+      "address": null,
+      "id": 14
+    },
+    {
+      "firstName": null,
+      "lastName": null,
+      "email": null,
+      "mobile": null,
+      "address": null,
+      "id": 15
+    },
+    {
+      "firstName": null,
+      "lastName": null,
+      "email": null,
+      "mobile": null,
+      "address": null,
+      "id": 16
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
